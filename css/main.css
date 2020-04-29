@@ -101,7 +101,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(/dist/img/background123.jpg);
+    background: url(img/background123.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img::after {
@@ -287,12 +287,12 @@ main {
   .projects {
     grid-template-columns: 1fr; } }
 
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+/*    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
 :root {
   --primary-color: #3a4052;
-}
-
+}*/
+/*
 * {
   box-sizing: border-box;
   margin: 0;
@@ -397,3 +397,4 @@ h1 {
   margin: 0 5px;
 }
 
+*/
